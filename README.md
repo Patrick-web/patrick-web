@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [FLB Music](https://github.com/Patrick-web/FLB-Music-Player-Official)
 
-- 💬 Ask me about **Vue,Electron, Cordova**
+- 💬 Ask me about **Vue,Electron,Recat Native,Cordova**
 
 - 📫 How to reach me **mailto:pntx200@gmail.com**
 
