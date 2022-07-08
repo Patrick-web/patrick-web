@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pntx10" target="blank"><img src="https://img.shields.io/twitter/follow/pntx10?logo=twitter&style=for-the-badge" alt="pntx10" /></a> </p>
 
-- 🔭 I’m currently working on [FLB Music](https://feelthebeat.xyz)
+- 🔭 I’m currently working on Robo (Google Assistant in React native) and MyDekut (An one stop app for students in Dedan Kimathi University)
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **React Native and Project Management**
 
-- 👯 I’m looking to collaborate on [FLB Music](https://github.com/Patrick-web/FLB-Music-Player-Official)
+- 💬 Ask me about **Vue,Electron,React Native,Cordova, Supabase**
 
-- 💬 Ask me about **Vue,Electron,Recat Native,Cordova**
-
-- 📫 How to reach me **mailto:pntx200@gmail.com**
+- 📫 How to reach me **mailto:patrickwaweruofficial@gmail.com** or **@PnTX10*** on twitter
 
 - ⚡ Fun fact **All developers are coders**
 
