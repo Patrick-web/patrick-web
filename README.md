@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pntx10" target="blank"><img src="https://img.shields.io/twitter/follow/pntx10?logo=twitter&style=for-the-badge" alt="pntx10" /></a> </p>
 
-- 🔭 I’m currently working on my portfolio and MyDekut (An one stop app for students in Dedan Kimathi University)
+- 🔭 I’m currently working on MyDekut (An one stop app for students in Dedan Kimathi University)
 
 - 🌱 I’m currently learning **React Native and Project Management**
 
