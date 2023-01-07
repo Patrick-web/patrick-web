@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Vue,Electron,React Native,Cordova, Supabase**
 
-- 📫 How to reach me **@PnTX10*** on twitter
+- 📫 How to reach me **@PnTX10** on twitter
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
