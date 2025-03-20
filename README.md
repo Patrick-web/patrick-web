@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Patrick Waweru</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h1 align="center">JP</h1>
 
 <p align="left"> <a href="https://twitter.com/pntx10" target="blank"><img src="https://img.shields.io/twitter/follow/pntx10?logo=twitter&style=for-the-badge" alt="pntx10" /></a> </p>
 
-- 🔭 I’m currently working on MyKRA, a tax filling app
+- 🌱 I’m currently learning **Expo Modules, Kotline and Swift**
 
-- 🌱 I’m currently learning **Nuxt, Deno and Go**
-
-- 💬 Ask me about **Vue,Electron,React Native,Cordova, Supabase**
+- 💬 Ask me about **React Native,Vue,Electron,Supabase**
 
 - 📫 How to reach me **@PnTX10** on twitter
 
